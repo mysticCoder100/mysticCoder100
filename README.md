@@ -1,50 +1,29 @@
-<!--
-**mysticCoder100/mysticCoder100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hello there! I'm Abdul-Azeem
 
-Welcome to my corner of GitHub! I'm a passionate and curious programmer who sees code as both a craft and a calling. My journey into tech was fueled by a deep fascination with how computers think, compute, and connect—this spark has since grown into a fire that fuels my daily grind as a developer.
+Welcome to my corner of GitHub! I’m a software engineer fascinated by what happens beneath the abstraction layers. My work spans full-stack web and backend architecture, but my core curiosity lies in looking past code syntax to understand the underlying mechanics of computers, memory, and execution.
 
-## 💻 Who I Am
-With hands-on experience in PHP, Node.js, and Java, I'm constantly exploring the powerful frameworks that help bring ideas to life—Laravel and Express have been my go-to tools, and I'm currently diving into Spring Boot to expand my backend arsenal. My work spans exciting real-world projects: I'm actively building an e-commerce platform at **Klemweb**, and I'm also helping shape a startup project that bridges the gap between **artisans and customers**—creating digital opportunities where none existed before.
+## 💻 What I Do
+I build scalable backend systems, web applications, and custom developer tooling. My daily work involves designing robust APIs, handling complex database relationships, and structuring software that performs efficiently under the hood. 
 
-## 🧰 What I Work With
-Here’s a peek into the tools and technologies I engage with regularly:
-- **Languages:** PHP, Node.js, Java  
-- **Frameworks:** Laravel, Express, Spring Boot (soon!)  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-- **Others:** Eager to grow in Data Structures & Algorithms (DSA)
+## 🧰 Tech Arsenal
+- **Languages:** Go, PHP, JavaScript / TypeScript, C, C++
+- **Frameworks & Runtimes:** Laravel, React, Vue.js, Next.js, Node.js
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Environments:** Git, Linux, Windows, GoLand, WebStorm, Zed
 
-## 🧠 How I Think
-My fascination with computing goes beyond syntax. I see programming as problem-solving with purpose. Recently, I’ve taken up **chess**, and it’s transforming the way I approach logic, patience, and pattern recognition. It's like debugging with pawns and knights—and it’s become my mental gym.
+## 🧠 Current Curiosities & Deep Dives
+My fascination with computing goes straight to the metal. I spend my time exploring:
+- **Low-Level Systems:** Memory management, heap allocations, garbage collection, and virtual memory mechanics.
+- **Custom Tooling:** Building lightweight CLI utilities and data structures from scratch (like custom spell-checking engines using prefix Tries in Go).
+- **Engine Architecture:** Investigating database internals, compiler design, and concurrency models.
 
-## 🛠️ Current Projects
-- 🛒 **E-Commerce Platform @ Klemweb:** Building a smooth and scalable system for online transactions  
-- 🤝 **Artisan-Customer Connector (Startup):** Empowering local service providers through tech-driven matchmaking
-
-## 🚀 My Growth Path
-- Strengthening skills in DSA for better algorithmic thinking  
-- Expanding my knowledge of Spring Boot and enterprise-level Java  
-- Exploring cloud services and deployment strategies in future work
-
+## 🛠️ Current Projects & Focus
+- 🗳️ **IVOTE:** Architecting a high-integrity electronic voting backend with a strong focus on secure data storage and PostgreSQL relational design.
+- ⚙️ **Systems Engineering Studies:** Diving deep into computer architecture, OS concepts, and algorithmic efficiency using Go and C.
+- ✍️ **Sharing the Journey:** Writing technical content focused on looking beyond syntax and understanding the core mechanisms of software development.
 
 ## 🔗 Let's Connect
-<!-- Add your networking links here -->
 - [LinkedIn](https://www.linkedin.com/in/abdul-azeem-abdul-azeez-b9a839210/)
-- [Twitter](https://x.com/Mystic_Coder100)
+- [Twitter / X](https://x.com/Mystic_Coder100)
 
-Whether you're a fellow tech enthusiast, collaborator, or someone just passing through—thanks for stopping by. This space is always evolving, just like the code I write.
-
-
+Whether you're a fellow systems enthusiast, engineer, or open-source collaborator—thanks for stopping by. Let's build things that make sense from the silicon up.
