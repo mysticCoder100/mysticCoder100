@@ -9,7 +9,7 @@ I build scalable backend systems, web applications, and custom developer tooling
 - **Languages:** Go, PHP, JavaScript / TypeScript, C, C++
 - **Frameworks & Runtimes:** Laravel, React, Vue.js, Next.js, Node.js
 - **Databases:** PostgreSQL, MySQL
-- **Tools & Environments:** Git, Linux, Windows, GoLand, WebStorm, Zed
+- **Tools & Environments:** Git, Windows, Zed
 
 ## 🧠 Current Curiosities & Deep Dives
 My fascination with computing goes straight to the metal. I spend my time exploring:
